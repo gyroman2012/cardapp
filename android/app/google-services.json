@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "425495246865",
+    "firebase_url": "https://cardapp-bd8c0.firebaseio.com",
+    "project_id": "cardapp-bd8c0",
+    "storage_bucket": "cardapp-bd8c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425495246865:android:60c98b03c1a55f66a259b0",
+        "android_client_info": {
+          "package_name": "com.example.cardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425495246865-k5l5i74fbbtn6thjrlk5a9nn9r1fl8h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSJgOGLbEpvdfkxEU01n58W3GUPrliBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425495246865-k5l5i74fbbtn6thjrlk5a9nn9r1fl8h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
